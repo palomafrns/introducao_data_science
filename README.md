@@ -1,2 +1,2 @@
 # introducao_data_science
-Projeto de jogos de adivinhação de números e adivinhação de palavras (forca), desenvolvido em Python para aulas do curso da Alura.
+Projeto de estudos para curso de Data Science utilizando análise exploratória, visualização e exploração de dados.
